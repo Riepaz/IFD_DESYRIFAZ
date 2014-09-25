@@ -13,6 +13,14 @@ public class BangunDatar
 		System.out.println("\n\nJAJAR GENJANG");
 		inp.InputJajarGenjang();
 		
+		System.out.println("\n\nSEGITIGA");
+		inp.InputSegitiga();
+		
+		System.out.println("\n\nPERSEGI PANJANG");
+		inp.InputPersegiPanjang();		
+		
+		System.out.println("\n\nPERSEGI");
+		inp.InputPersegi();
 			
 	}
 }
